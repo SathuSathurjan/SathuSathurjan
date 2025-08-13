@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **Flutter,Dart,React js**
+- 💬 Ask me about **HTML,Css,PHP,Flutter,Dart,React js,MySQL,Bootstrap,**
 
 - 📫 How to reach me **sathusathurjan2001@gmail.com**
 
